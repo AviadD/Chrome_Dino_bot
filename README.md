@@ -1,6 +1,6 @@
 # Chrome Dino Bot
 
-Bot that plays the chrome dinosaur game
+Bot that play the chrome dinosaur game
 
 ![The Game](https://www.androidpolice.com/wp-content/uploads/2018/11/chrome-dino-hero.png)
 
